@@ -21,32 +21,35 @@ Non-Functional Needs: Security, reliability, and an easy-to-use interface.
 Draw UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
 Design database tables for Students, Courses, Enrollment, and Fees.
 
-# UML DIAGRAMS:
-
-## USE CASE DIAGRAM:
-
-<img width="1005" height="847" alt="image" src="https://github.com/user-attachments/assets/5540aa6b-cc38-4585-a839-fe1a4b700de8" />
-
-## ACTIVITY DIAGRAM:
-
-<img width="753" height="1041" alt="image" src="https://github.com/user-attachments/assets/ebfc6d26-f3ee-4b92-a62f-44538a767130" />
-
-## CLASS DIAGRAM:
-
-<img width="1213" height="800" alt="image" src="https://github.com/user-attachments/assets/70b41bf2-0064-40dc-8d67-39c34a86b1e0" />
-
-## COMMUNICATION DIAGRAM:
-
-<img width="1112" height="756" alt="image" src="https://github.com/user-attachments/assets/619c25b8-8de1-4179-a6ec-476f15cd995b" />
-
-## PACKAGE DIAGRAM:
-
-<img width="809" height="657" alt="image" src="https://github.com/user-attachments/assets/4d628a1d-9555-4001-95d7-aac959209267" />
 
 ## SEQUENCE DIAGRAM:
 
-<img width="886" height="752" alt="image" src="https://github.com/user-attachments/assets/5e24ab8f-f320-43cf-b812-b39a211401fb" />
+USECASE:
 
-# RESULT:
+<img width="1227" height="1001" alt="image" src="https://github.com/user-attachments/assets/1d36554d-3e5d-47d5-8626-f5ad737746e7" />
 
-Thus the Student enrollment management system project was executed and the output was verified.
+SEQUENCE:
+
+<img width="1228" height="1007" alt="image" src="https://github.com/user-attachments/assets/485099d0-34b0-4776-9672-596f2698c1d9" />
+
+PACKAGE:
+
+<img width="1212" height="990" alt="image" src="https://github.com/user-attachments/assets/fc31fafd-da0b-48ad-9a89-9458a4184112" />
+
+COMMUNICATION:
+
+<img width="1204" height="1008" alt="image" src="https://github.com/user-attachments/assets/59ae5bf2-5eb0-4108-b64d-0b45733ac8d6" />
+
+CLASS:
+
+<img width="1215" height="1003" alt="image" src="https://github.com/user-attachments/assets/cf053f6c-154d-430c-8ffc-7fa5d317e3cd" />
+
+ACTIVITY:
+
+<img width="1204" height="998" alt="image" src="https://github.com/user-attachments/assets/5ab53971-fabb-4ba5-a309-f690ecf9d29a" />
+
+
+
+### RESULT:
+Thus the Student information system project was executed and the output was
+verified.
